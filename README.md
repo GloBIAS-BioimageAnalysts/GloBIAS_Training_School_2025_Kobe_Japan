@@ -106,7 +106,14 @@ Wednesday, October 29, 2025
 # Course Material
 ## Day 1
 
+### Introduction to cluster and Slurm
+
+[Hands-on instructions](https://globias-tutorial.embl.de)
+
 ## Day 2
+
+### Introduction to BARD
+Slides: https://s.embl.org/bard-intro
 
 ## Day 3
 Introduction to Machine Learning - Slides<br>
