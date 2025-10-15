@@ -107,6 +107,7 @@ Wednesday, October 29, 2025
 ## Day 1
 
 ### Introduction to cluster and Slurm
+[Slides](https://s.embl.org/ts-hpc)
 [Hands-on instructions](https://globias-tutorial.embl.de)
 
 ## Day 2
