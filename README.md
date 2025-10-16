@@ -42,10 +42,11 @@ Sunday, October 26, 2025
 
 |<b>Time</b>| <b>Topic</b>| <b>Trainers</b>|
 |---| ---| ---|
-|09:00-10:30| Registration & Welcome | *Rocco D'Antuono*|
+|10:00-10:20| Registration | *Local organizers*|
+|10:20-10:30| Welcome | *Rocco D'Antuono*|
 |10:30–11:00| Bioimage fundamentals | *Elnaz Fazeli<br>Simon Leclerc* | 
-|11:00-11:30| Introduction to python tools| *Rocco D'Antuono*|
-|11:30-12:00| Basic image processing workflow| *Kagayaki Kato*|
+|11:00-11:30| Introduction to python tools| *Kagayaki Kato*|
+|11:30-12:00| Basic image processing workflow| *Rocco D'Antuono*|
 |12:00-13:00| Lunch|
 |13:00-13:45| File format for parallel computing | *Dominik Kutra<br>Benjamin Pavie*|
 |13:45-15:00| Slurm - Job scheduling| *Yi Sun*|
