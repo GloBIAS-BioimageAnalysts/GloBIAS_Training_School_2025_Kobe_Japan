@@ -107,6 +107,10 @@ Wednesday, October 29, 2025
 # Course Material
 ## Day 1
 
+### Bioimage Fundamentals
+
+[Slides](https://docs.google.com/presentation/d/1Rhmka7j8xiXp9olVy0BGPaGhkABWNHGKkYwlzyvxjvM/edit?slide=id.g368e348cd0a_0_24#slide=id.g368e348cd0a_0_24)
+
 ### Introduction to cluster and Slurm
 [Slides](https://s.embl.org/ts-hpc)
 
