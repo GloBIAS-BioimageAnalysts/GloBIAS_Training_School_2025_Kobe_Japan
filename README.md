@@ -1,4 +1,4 @@
-# GloBIAS Bioimage Analyis Training School 2025
+# GloBIAS Bioimage Analysis Training School 2025
 Program and links to the material for the GloBIAS Training School 2025, Kobe, Japan.
 
 <p align="center">
@@ -111,8 +111,12 @@ Wednesday, October 29, 2025
 
 [Slides](https://docs.google.com/presentation/d/1Rhmka7j8xiXp9olVy0BGPaGhkABWNHGKkYwlzyvxjvM/edit?slide=id.g368e348cd0a_0_24#slide=id.g368e348cd0a_0_24)
 
+
+### Introduction to napari
+[Basic image analysis workflows with python and napari - Rocco D'Antuono](https://docs.google.com/presentation/d/1R0YCoPA00VmHDshARoe34q0s8c942ptFvhIfCR73FzM/edit?usp=sharing)
+
 ### Introduction to cluster and Slurm
-[Slides](https://s.embl.org/ts-hpc)
+
 
 [Hands-on instructions](https://globias-tutorial.embl.de)
 
