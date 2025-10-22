@@ -123,15 +123,12 @@ Wednesday, October 29, 2025
 ## Day 2
 
 ### Introduction to BARD
-Slides: [Resource Allocation on HPC](https://docs.google.com/presentation/d/1jR8FzRQyQRIMw1s-pEHv8qsU52RKztICLCHleTT2Xo8/edit?usp=sharing)
 
-Slides: https://s.embl.org/bard-intro
-
-Slides: [Fiji On BARD](https://docs.google.com/presentation/d/1ULXJIg8i4-SUOLAlgE403gtXDg-HGEt8/edit?usp=sharing&ouid=111745350217445405289&rtpof=true&sd=true)
-
-Slides: [QuPath on BARD](https://docs.google.com/presentation/d/1oF059OdUEqYuxzUMgAd52EX-WaSJIYuJ/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true)
-
-Slides : [CellPose on BARD](https://docs.google.com/presentation/d/1TU4pxWBmtKULfXzS5WUgbVsaYOwSKvVE/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true)
+- [Resource Allocation on HPC](https://docs.google.com/presentation/d/1jR8FzRQyQRIMw1s-pEHv8qsU52RKztICLCHleTT2Xo8/edit?usp=sharing) 🖺
+- [BARD Introduction](https://s.embl.org/bard-intro) 🖺
+- [Fiji On BARD](https://docs.google.com/presentation/d/1ULXJIg8i4-SUOLAlgE403gtXDg-HGEt8/edit?usp=sharing&ouid=111745350217445405289&rtpof=true&sd=true) 🖺
+- [QuPath on BARD](https://docs.google.com/presentation/d/1oF059OdUEqYuxzUMgAd52EX-WaSJIYuJ/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true) 🖺
+- [CellPose on BARD](https://docs.google.com/presentation/d/1TU4pxWBmtKULfXzS5WUgbVsaYOwSKvVE/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true) 🖺
 
 ## Day 3
 Introduction to Machine Learning - Slides<br>
