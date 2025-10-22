@@ -115,6 +115,9 @@ Wednesday, October 29, 2025
 ### Introduction to napari
 [Basic image analysis workflows with python and napari - Rocco D'Antuono](https://docs.google.com/presentation/d/1R0YCoPA00VmHDshARoe34q0s8c942ptFvhIfCR73FzM/edit?usp=sharing)
 
+### Ome.zarr
+[File format for parallel computing](https://docs.google.com/presentation/d/1ieZRd0A2DPasgIpbOUJwsdxczG-aem60/edit?usp=sharing&ouid=101461861887516527432&rtpof=true&sd=true)
+
 ### Introduction to cluster and Slurm
 
 
