@@ -131,6 +131,8 @@ Slides: [Fiji On BARD](https://docs.google.com/presentation/d/1ULXJIg8i4-SUOLAlg
 
 Slides: [QuPath on BARD](https://docs.google.com/presentation/d/1oF059OdUEqYuxzUMgAd52EX-WaSJIYuJ/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true)
 
+Slides : [CellPose on BARD](https://docs.google.com/presentation/d/1TU4pxWBmtKULfXzS5WUgbVsaYOwSKvVE/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true)
+
 ## Day 3
 Introduction to Machine Learning - Slides<br>
 https://docs.google.com/presentation/d/1OZXYkEtDYfUS_4uukWuoOEJ8TlXz46cKSFr2pi0M9Xk/edit?usp=sharing
