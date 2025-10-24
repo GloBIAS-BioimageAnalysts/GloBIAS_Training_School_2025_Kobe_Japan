@@ -111,6 +111,8 @@ Wednesday, October 29, 2025
 
 [Slides](https://docs.google.com/presentation/d/1Rhmka7j8xiXp9olVy0BGPaGhkABWNHGKkYwlzyvxjvM/edit?slide=id.g368e348cd0a_0_24#slide=id.g368e348cd0a_0_24)
 
+### Introduction to python tools  
+[Slides](https://docs.google.com/presentation/d/1fdT-K91YZCBEg9g08dtZdkmdQ-bLnC7alu8X_8M6CE8/edit?usp=sharing)
 
 ### Introduction to napari
 [Basic image analysis workflows with python and napari - Rocco D'Antuono](https://docs.google.com/presentation/d/1R0YCoPA00VmHDshARoe34q0s8c942ptFvhIfCR73FzM/edit?usp=sharing)
