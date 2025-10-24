@@ -129,6 +129,9 @@ Wednesday, October 29, 2025
 ### Workflow management and containers : Docker
 [Slides](https://docs.google.com/presentation/d/1euJewnbw5fT2awcPtaiSgiDLyvMTZB8w/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true)
 
+### Resource allocation on HPC
+[Slides](https://docs.google.com/presentation/d/1jR8FzRQyQRIMw1s-pEHv8qsU52RKztICLCHleTT2Xo8/edit?usp=sharing) 🖺
+
 ### Introduction to BARD
 
 BARD access : https://bard-external.embl.de
