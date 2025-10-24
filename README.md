@@ -113,6 +113,7 @@ Wednesday, October 29, 2025
 
 ### Introduction to python tools  
 [Slides](https://docs.google.com/presentation/d/1fdT-K91YZCBEg9g08dtZdkmdQ-bLnC7alu8X_8M6CE8/edit?usp=sharing)
+[Jupyter notebook (ipynb)](https://drive.google.com/file/d/1j6pt_FBnS6iEjwjm5rpEXdtoIBMuJ-Kn/view?usp=sharing)
 
 ### Introduction to napari
 [Basic image analysis workflows with python and napari - Rocco D'Antuono](https://docs.google.com/presentation/d/1R0YCoPA00VmHDshARoe34q0s8c942ptFvhIfCR73FzM/edit?usp=sharing)
