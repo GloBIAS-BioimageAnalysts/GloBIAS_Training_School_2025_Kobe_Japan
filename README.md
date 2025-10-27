@@ -109,17 +109,17 @@ Wednesday, October 29, 2025
 
 ### Bioimage Fundamentals
 
-[Slides](https://docs.google.com/presentation/d/1Rhmka7j8xiXp9olVy0BGPaGhkABWNHGKkYwlzyvxjvM/edit?slide=id.g368e348cd0a_0_24#slide=id.g368e348cd0a_0_24)
+- [Slides](https://docs.google.com/presentation/d/1Rhmka7j8xiXp9olVy0BGPaGhkABWNHGKkYwlzyvxjvM/edit?slide=id.g368e348cd0a_0_24#slide=id.g368e348cd0a_0_24) 🖺
 
 ### Introduction to python tools  
-[Slides](https://docs.google.com/presentation/d/1fdT-K91YZCBEg9g08dtZdkmdQ-bLnC7alu8X_8M6CE8/edit?usp=sharing)  
-[Jupyter notebook (ipynb)](https://drive.google.com/file/d/1j6pt_FBnS6iEjwjm5rpEXdtoIBMuJ-Kn/view?usp=sharing)  
+- [Slides](https://docs.google.com/presentation/d/1fdT-K91YZCBEg9g08dtZdkmdQ-bLnC7alu8X_8M6CE8/edit?usp=sharing) 🖺
+- [Jupyter notebook (ipynb)](https://drive.google.com/file/d/1j6pt_FBnS6iEjwjm5rpEXdtoIBMuJ-Kn/view?usp=sharing) 
 
 ### Introduction to napari
-[Basic image analysis workflows with python and napari - Rocco D'Antuono](https://docs.google.com/presentation/d/1R0YCoPA00VmHDshARoe34q0s8c942ptFvhIfCR73FzM/edit?usp=sharing)
+- [Basic image analysis workflows with python and napari - Rocco D'Antuono](https://docs.google.com/presentation/d/1R0YCoPA00VmHDshARoe34q0s8c942ptFvhIfCR73FzM/edit?usp=sharing)🖺
 
 ### File format for parallel computing : OME-ZARR
-[Slides](https://docs.google.com/presentation/d/1ieZRd0A2DPasgIpbOUJwsdxczG-aem60/edit?usp=sharing&ouid=101461861887516527432&rtpof=true&sd=true)
+- [Slides](https://docs.google.com/presentation/d/1ieZRd0A2DPasgIpbOUJwsdxczG-aem60/edit?usp=sharing&ouid=101461861887516527432&rtpof=true&sd=true)🖺
 
 ### Introduction to cluster and Slurm
 [Hands-on instructions](https://globias-tutorial.embl.de)
@@ -127,16 +127,15 @@ Wednesday, October 29, 2025
 ## Day 2
 
 ### Workflow management and containers : Docker
-[Slides](https://docs.google.com/presentation/d/1euJewnbw5fT2awcPtaiSgiDLyvMTZB8w/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true)
+- [Slides](https://docs.google.com/presentation/d/1euJewnbw5fT2awcPtaiSgiDLyvMTZB8w/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true)🖺
 
 ### Resource allocation on HPC
-[Slides](https://docs.google.com/presentation/d/1jR8FzRQyQRIMw1s-pEHv8qsU52RKztICLCHleTT2Xo8/edit?usp=sharing) 🖺
+- [Slides](https://docs.google.com/presentation/d/1jR8FzRQyQRIMw1s-pEHv8qsU52RKztICLCHleTT2Xo8/edit?usp=sharing) 🖺
 
-### Introduction to BARD
+### Hands-on BARD part 1
 
 BARD access : https://bard-external.embl.de
 
-- [Resource Allocation on HPC](https://docs.google.com/presentation/d/1jR8FzRQyQRIMw1s-pEHv8qsU52RKztICLCHleTT2Xo8/edit?usp=sharing) 🖺
 - [BARD Introduction](https://s.embl.org/bard-intro) 🖺
 - [Fiji On BARD](https://docs.google.com/presentation/d/1ULXJIg8i4-SUOLAlgE403gtXDg-HGEt8/edit?usp=sharing&ouid=111745350217445405289&rtpof=true&sd=true) 🖺
 - [QuPath on BARD](https://docs.google.com/presentation/d/1oF059OdUEqYuxzUMgAd52EX-WaSJIYuJ/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true) 🖺
@@ -144,12 +143,13 @@ BARD access : https://bard-external.embl.de
 
 ### Use case with Nextflow
 
-[Slides](./presentations/GloBIAS_TS_2025_Nextflow4BioimageAnalysis_Latest.pdf)🖺
+- [Slides](./presentations/GloBIAS_TS_2025_Nextflow4BioimageAnalysis_Latest.pdf)🖺
 
 ## Day 3
-Introduction to Machine Learning - [Slides](
+### Introduction to Machine Learning 
+- [Slides](
 https://docs.google.com/presentation/d/1OZXYkEtDYfUS_4uukWuoOEJ8TlXz46cKSFr2pi0M9Xk/edit?usp=sharing)🖺
-
+### Hands-on BARD part 2
 - [CellPose on BARD](https://docs.google.com/presentation/d/1TU4pxWBmtKULfXzS5WUgbVsaYOwSKvVE/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true) 🖺
 - Ilastik
 
