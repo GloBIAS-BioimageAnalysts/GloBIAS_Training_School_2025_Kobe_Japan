@@ -141,6 +141,7 @@ BARD access : https://bard-external.embl.de
 - [Fiji On BARD](https://docs.google.com/presentation/d/1ULXJIg8i4-SUOLAlgE403gtXDg-HGEt8/edit?usp=sharing&ouid=111745350217445405289&rtpof=true&sd=true) 🖺
 - [QuPath on BARD](https://docs.google.com/presentation/d/1oF059OdUEqYuxzUMgAd52EX-WaSJIYuJ/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true) 🖺
 - [CellPose on BARD](https://docs.google.com/presentation/d/1TU4pxWBmtKULfXzS5WUgbVsaYOwSKvVE/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true) 🖺
+- [CellProfiler on BARD](https://docs.google.com/presentation/d/17dy4G9Rx6Tc4uVSQSAyR4V3W61QcKTwD/edit?usp=sharing&ouid=102339895827977623049&rtpof=true&sd=true) 🖺
 
 ### Use case with Nextflow
 
