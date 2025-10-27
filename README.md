@@ -144,11 +144,11 @@ BARD access : https://bard-external.embl.de
 
 ### Use case with Nextflow
 
-[Slides](./presentations/GloBIAS_TS_2025_Nextflow4BioimageAnalysis_Latest.pdf)
+[Slides](./presentations/GloBIAS_TS_2025_Nextflow4BioimageAnalysis_Latest.pdf)🖺
 
 ## Day 3
 Introduction to Machine Learning - [Slides](
-https://docs.google.com/presentation/d/1OZXYkEtDYfUS_4uukWuoOEJ8TlXz46cKSFr2pi0M9Xk/edit?usp=sharing)
+https://docs.google.com/presentation/d/1OZXYkEtDYfUS_4uukWuoOEJ8TlXz46cKSFr2pi0M9Xk/edit?usp=sharing)🖺
 
 - [CellPose on BARD](https://docs.google.com/presentation/d/1TU4pxWBmtKULfXzS5WUgbVsaYOwSKvVE/edit?usp=sharing&ouid=115402527201314058038&rtpof=true&sd=true) 🖺
 - Ilastik
