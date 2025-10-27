@@ -69,7 +69,7 @@ Monday, October 27, 2025
 |11:00-11:45| Resource allocation on HPC| *Nicholas Condon<br>Tatiana Woller*|
 |11:45-12:00| Check on projects progress| *All trainers*|
 |12:00-13:00| <em>Lunch</em> |
-|13:00-15:00| Hands-on HPC - BARD part 1| *All trainers*|
+|13:00-15:00| Hands-on HPC - BARD part 1 (Intro/Fiji/Napari/QuPath/Cell Profiler)| *All trainers*|
 |15:00-15:30| Check on participants' projects| *All trainers*|
 |15:30-16:00| <em>Coffee break</em>|
 |16:00-16:45| Use case with Nextflow| *Sebastian Gonzalez Tirado*|
@@ -85,7 +85,7 @@ Tuesday, October 28, 2025
 |09:00-09:30| Introduction to Machine Learning| *Dominik Kutra<br>Ana Stojiljkovic*|
 |09:30-10:30| Hands-on Machine Learning | *All trainers*|
 |10:30-11:00| <em>Coffee break</em> |
-|11:00-12:00| Hands-on BARD part 2| *Dominik Kutra<br>Benjamin Pavie*|
+|11:00-12:00| Hands-on BARD part 2 (CellPose-SAM/Ilastik)| *Dominik Kutra<br>Benjamin Pavie*|
 |12:00-13:00| <em>Lunch</em> |
 |13:00-15:00| Work on participants' projects| *All trainers*|
 |15:00-15:30| <em>Prepare to move</em>|
