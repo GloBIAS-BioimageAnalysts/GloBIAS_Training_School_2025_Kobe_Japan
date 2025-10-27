@@ -145,7 +145,7 @@ BARD access : https://bard-external.embl.de
 
 ### Use case with Nextflow
 
-[Slides](./presentations/GloBIAS_2025_Nextflow4BioimageAnalysis_Latest.pdf)
+[Slides](./presentations/GloBIAS_TS__2025_Nextflow4BioimageAnalysis_Latest.pdf)
 
 ## Day 3
 Introduction to Machine Learning - [Slides](
