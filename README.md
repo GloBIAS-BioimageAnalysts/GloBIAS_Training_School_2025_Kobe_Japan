@@ -69,7 +69,7 @@ Monday, October 27, 2025
 |11:00-11:45| Resource allocation on HPC| *Nicholas Condon<br>Tatiana Woller*|
 |11:45-12:00| Check on projects progress| *All trainers*|
 |12:00-13:00| <em>Lunch</em> |
-|13:00-15:00| Hands-on HPC - BARD part 1 (Intro/Fiji/Napari/QuPath/Cell Profiler)| *All trainers*|
+|13:00-15:00| Hands-on HPC - BARD part 1 (Intro/Fiji/Napari/QuPath/Cell Profiler)| Y. Sun, N. Condon, R.D’Antuono, B.Pavie, A. Stojiljkovic |
 |15:00-15:30| Check on participants' projects| *All trainers*|
 |15:30-16:00| <em>Coffee break</em>|
 |16:00-16:45| Use case with Nextflow| *Sebastian Gonzalez Tirado*|
