@@ -148,8 +148,8 @@ BARD access : https://bard-external.embl.de
 [Slides](./presentations/GloBIAS_2025_Nextflow4BioimageAnalysis.pdf)
 
 ## Day 3
-Introduction to Machine Learning - Slides<br>
-https://docs.google.com/presentation/d/1OZXYkEtDYfUS_4uukWuoOEJ8TlXz46cKSFr2pi0M9Xk/edit?usp=sharing
+Introduction to Machine Learning - [Slides](
+https://docs.google.com/presentation/d/1OZXYkEtDYfUS_4uukWuoOEJ8TlXz46cKSFr2pi0M9Xk/edit?usp=sharing)
 
 --------------------------
 # Preparation for the course
